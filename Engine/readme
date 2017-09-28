@@ -1,0 +1,11 @@
+You can compile and run the game using g++ on OSU’s FLIP server. We have 
+included a makefile for your convenience. To use the makefile simply upload 
+the folder containing the source code to FLIP and change the current working 
+directory to the 'Engine' folder. After you have entered the 'Engine' folder, 
+type ‘make’ (without quotations) into the console and press ‘Enter’ and the 
+game should compile. You can then run the game by entering './TaurusStation' 
+(without quotations) and then pressing ‘Enter’ into the console.
+
+**Please Note: This game is meant to be played on a console screen 80 
+characters wide. You may need to adjust your SSH client (i.e. PuTTY) to 
+match these display settings.
