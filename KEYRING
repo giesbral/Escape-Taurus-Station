@@ -1,0 +1,33 @@
+OBJECTNAME
+Keyring
+END
+
+LOOTABLE
+true
+END
+
+NAMES
+keyring
+keys
+fiddly keys
+fiddly looking keys
+fiddly-looking keys
+END
+
+USABLE WITH
+Armory Door
+END
+
+LOOK_AT
+It’s a steel ring bearing several square, fiddly-looking keys. It was looted 
+unceremoniously from the Security Chief’s dead body. By you. You monster.
+END
+
+USE***ARMORYDOOR
+You try several of the fiddly keys on the keyring. Finally, one especially
+fiddly key clicks in the lock. You hear the humming of hydraulics as the 
+seals crack on the armored doors. They open slightly with a sudden jolt 
+and then slide apart with a smooth motion. As cool air floods the room, your
+nose fills with the tangy odors of oil and gunmetal. However, you see nothing,
+the lights appear to be off in the armory. 
+END

@@ -1,0 +1,166 @@
+OBJECTNAME
+Broken Escape Pod
+END
+
+LOOTABLE
+False
+END
+
+NAMES
+pod
+escape pod
+broken pod
+END
+
+MISSINGPARTS
+Pod Life Support AI
+Pod Control Board
+Pod Frame Panel
+Pod Fusion Generator
+Pod Navigation Chip
+END
+
+LOOK_AT
+It's an escape pod... the only way off this ship. Unfortunately, it's busted 
+up pretty bad and several parts are in desperate need of replacement.
+END
+
+LOOK_AT***READY
+All the broken parts are replaced and the pod is ready to use.
+END
+
+USE
+This pod isn't going anywhere until the broken parts can be replaced.
+END
+
+USE***READY
+Now that you finally have a working escape pod, you climb inside and strap 
+yourself into the nearest crash seat. The escape pod twisted in its firing
+cylinder, presumably when it was damaged, so that once you're strapped in,
+you're awkwardly hanging from the ceiling against the restraints. You reach 
+over to the pod's console and enter the commands to begin the launch sequence. 
+A countdown issues from the intercom as the pod doors slam closed with a loud 
+"SPANG!" You brace yourself as the countdown reaches zero and the locking pins 
+fire. A loud roar beats the air from your lungs and flings the escape pod away 
+from the station at harrowing speed. As the pod accelerates your vision 
+darkens and you feel yourself swallowed in the padding of your crash seat. 
+Several long seconds pass before the force of the booster rockets fades.
+You begin to float away from your seat; the escape pod isn't large enough
+to support artificial gravity. You take a deep breath and unbuckle yourself, 
+heading to the console to check the pod's trajectory. You flip through the 
+external camera feeds until you spot the Earth, still a blue dime at this 
+distance, but you nearly cry in relief, you're finally going home! 
+You feel a numb, distant pang in your chest as your mind drifts to the broken
+station and your dead friends. You wish you had more answers, an explanation 
+for their loss. You make an angry vow to get to the bottom of things when you
+get to Earth. For now, however, you're overcome with exhaustion. 
+You strap yourself back into your crash seat. Your eyes close and you quickly
+succumb to sleep, and dreams of home.
+END
+
+USE***ACTIVATED
+Now that you finally have a working escape pod, you climb inside and strap 
+yourself into the nearest crash seat. The escape pod twisted in its firing
+cylinder, presumably when it was damaged, so that once you're strapped in,
+you're awkwardly hanging from the ceiling against the restraints. You reach 
+over to the pod's console and enter the commands to begin the launch sequence. 
+A countdown issues from the intercom as the pod doors slam closed with a loud 
+"SPANG!" You brace yourself as the countdown reaches zero and the locking pins 
+fire. A loud roar beats the air from your lungs and flings the escape pod away 
+from the station at harrowing speed. As the pod accelerates your vision 
+darkens and you feel yourself swallowed in the padding of your crash seat. 
+Several long seconds pass before the force of the booster rockets fades.
+You begin to float away from your seat; the escape pod isn't large enough
+to support artificial gravity. You take a deep breath and unbuckle yourself, 
+heading to the console to check the pod's trajectory. You flip through the 
+external camera feeds until you spot the Earth, still a blue dime at this 
+distance, but you nearly cry in relief, you're finally going home! 
+You feel a numb, distant pang in your chest as your mind drifts to the broken
+station and your dead friends. You wish you had more answers, an explanation 
+for their loss. You make an angry vow to get to the bottom of things when you
+get to Earth. For now, however, you're overcome with exhaustion. 
+You strap yourself back into your crash seat. Your eyes close and you quickly
+succumb to sleep, and dreams of home....
+
+You startle awake with a gasp and search with trembling hands to find 
+yourself still strapped into the crash seat of your escape pod. 
+You're covered in cold sweat and your tongue feels like a lump of sand in your
+mouth. The escape pod is dark, lit only by the dim glow of the pod's computer 
+monitor. A faint echo reverberates through the air and makes you wonder if 
+you were screaming in your sleep. You jump and remember the thought that 
+brought you so suddenly to wakefulness: the security footage! You forgot you 
+brought the tape with you! You launch yourself over to the console and examine
+the machine, frantically hoping that the thing was installed with a data tape
+reader. You cry out as you find the peripheral hidden under a nearby panel. 
+You pull the tape from your pocket and stuff it into the machine. 
+Your nose almost touches the screen as you punch the play button. 
+
+The footage is just static for a few terrible seconds before clearing to a 
+wide shot of the communications center. There are several crew members in 
+view, all working diligently at their stations. It takes you a few
+moments to realize that one of the crew members is you. You're just at the 
+edge of the screen, on the left, working at the decoding console. 
+The scene continues for a few silent seconds as anxiety slowly swells in
+your stomach. Abruptly, a series of bright flashes emanate from 
+the decoding console, momentarily turning the video footage blinding white. 
+When the picture refocuses, you see your crewmates struggling to keep you from
+hurting yourself as you writhe on the floor, your back arched and arms
+banging against the hull like an overturned beetle. You watch dark, inky 
+shadow ooze from your eyes and mouth, slowly engulfing your body. 
+You see your body suddenly jerked to full height as you toss your crewmates
+against the bulkheads like rag dolls. Their bodies crunch and bounce to 
+the floor. Black, greedy flames engulfs your body. You watch your form blur 
+and flash like a mirage, splitting into multiple refracted images.
+Quivering jet flames spread from your body to the floor, to the walls of the 
+comm center, to the bodies of your friends. You watch your frothing black form 
+raise its arms in a silent roar. An explosion flashes from the right, 
+shaking the video feed a second before it cuts abruptly to gray static. 
+
+Your screen transitions to a glossy white screen saver. 
+You hear the player begin to rewind the tape. You look down. You gape in 
+horror at your outstretched hands; the player's whirring thrum begins to roar
+in your ears. Your hands appear bone white in the light. You can't catch your
+breath; it sticks in your throat as your mind fills with images of 
+stormy black glass. Dark wildfire creeps into the edges of your vision as you
+watch your hands snap and burst into a thousand vibrating afterimages...
+END
+
+USE***PODAI
+You replaced the pod's broken Life Support AI.
+END
+
+USE***PODCONTROLBOARD
+You replaced the pod's broken Control Board.
+END
+
+USE***PODFRAMEPANEL
+You replaced the pod's broken Frame Panel.
+END
+
+USE***PODGENERATOR
+You replaced the pod's broken Fusion Generator.
+END
+
+USE***PODNAV
+You replaced the pod's broken Navigation Chip.
+END
+
+COMBINE***PODAI
+You replaced the pod's broken Life Support AI.
+END
+
+COMBINE***PODCONTROLBOARD
+You replaced the pod's broken Control Board.
+END
+
+COMBINE***PODFRAMEPANEL
+You replaced the pod's broken Frame Panel.
+END
+
+COMBINE***PODGENERATOR
+You replaced the pod's broken Fusion Generator.
+END
+
+COMBINE***PODNAV
+You replaced the pod's broken Navigation Chip.
+END

@@ -1,0 +1,17 @@
+OBJECTNAME
+Glass Cabinets
+END
+
+LOOTABLE
+false
+END
+
+NAMES
+cabinets
+glass cabinets
+cabinet
+END
+
+LOOK_AT
+You notice that the glass cabinets contain various medical supplies.
+END

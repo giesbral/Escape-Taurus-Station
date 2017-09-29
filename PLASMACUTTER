@@ -1,0 +1,45 @@
+OBJECTNAME
+Plasma Cutter
+END
+
+LOOTABLE
+true
+END
+
+NAMES
+cutter
+plasma cutter
+END
+
+USABLE WITH
+collapsed passage
+END
+
+LOOK_AT
+This is a handheld, high-gain plasma cutter. The engineering team would use it
+to cut through steel bulkheads and armor plate. It has a plasma beam emitter 
+that attaches to a battery with a piece of thick rubber hose. For convenience,
+the battery has a loop that attaches to your belt. The battery weighs about 25 
+pounds though, so it appears that this feature is only convenient for pulling
+down your pants while you're waving a plasma cutter around.
+END
+
+IGNITE
+You've successfully ignited your plasma cutter. You stare at the beam for a 
+few minutes, mesmerized by the glowing violet blade. You quickly remember that 
+this beam can cut through your arms, hands, and face as easily as it cuts
+through armor plate, so you turn it off for now.
+END
+
+USE
+You've successfully ignited your plasma cutter. You stare at the beam for a 
+few minutes, mesmerized by the glowing violet blade. You quickly remember that 
+this beam can cut through your arms, hands, and face as easily as it cuts
+through armor plate, so you turn it off for now.
+END
+
+USE***COLLAPSEDPASSAGE
+You ignite the plasma cutter and spend several minutes clearing the debris
+from the passageway. When you're done, there's a pile of slightly melted steel
+in the corridor behind you, and the way to the Medical Bay is clear.
+END

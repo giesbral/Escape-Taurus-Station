@@ -1,0 +1,41 @@
+ROOMNAME
+Research Lab
+END
+
+VISITED
+false
+END
+
+LONGFORM
+The reseach lab is where all the science experiments are conducted 
+on the station. This lab is rated Bio-Safety Level 5 - it can handle pathogens 
+that are too dangerous to be studied on the Earth. Biosafety cabinets, 
+microscopes, autoclaves, positive pressure suits, everything you need to study 
+the deadliest pathogens can be found here.
+END
+
+SHORTFORM
+You are located in the Research Lab.
+END
+
+OBJECTS
+Lab Specimen
+Electron Microscope
+Pod Control Board
+END
+
+FORWARD
+NONE
+END
+
+AFT
+Engineering Bay
+END
+
+STARBOARD
+NONE
+END
+
+PORT
+NONE
+END

@@ -1,0 +1,30 @@
+OBJECTNAME
+Crane Key
+END
+
+LOOTABLE
+true
+END
+
+NAMES
+crane key
+simple key
+small key
+END
+
+USABLE WITH
+Cargo Crane
+END
+
+LOOK_AT
+It's a small, simple key with a bit of black string looped through the bow.
+It's labeled with a bit of masking tape. The label reads, "CRANE".
+END
+
+USE***CARGOCRANE
+The key requires some forceful encouragement, but finally clicks into the lock
+on the crane's control panel. You turn the key and the crane begins to hum 
+contentedly as several status lights blink on. Everything appears to be in 
+working order, and you can now crane around the engineering bay as much as 
+you'd like. 
+END

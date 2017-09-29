@@ -1,0 +1,40 @@
+ROOMNAME
+Hydroponics
+END
+
+VISITED
+false
+END
+
+LONGFORM
+The air is so humid in the hydroponics room. Various plants are 
+grown here. Some plants bear edible fruit and others are used in experiments. 
+You see apples that look ripe. This room also serves an important role in 
+keeping the oxygen and CO2 balanced in the station.
+END
+
+SHORTFORM
+You are located in the Hydroponics Grow Room.
+END
+
+OBJECTS
+Space Apple
+Tomato Plant
+Workbench
+END
+
+FORWARD
+Solarium
+END
+
+AFT
+Crew Quarters
+END
+
+STARBOARD
+Galley
+END
+
+PORT
+Engineering Bay
+END

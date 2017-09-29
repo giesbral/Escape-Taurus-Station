@@ -1,0 +1,69 @@
+OBJECTNAME
+Flashlight
+END
+
+LOOTABLE
+True
+END
+
+NAMES
+flashlight
+light
+torch
+lamp
+END
+
+USABLE WITH
+battery
+END
+
+LOOK_AT
+This is a heavy-duty security flashlight that...no, hold on, there’s no 
+batteries in this thing. Correction: You have a fancy metal stick with a 
+clicky button. Clicking the button produces disappointment.
+END
+
+LOOK_AT***READY
+A heavy-duty security flashlight. Paint’s a bit chipped but the batteries are 
+still good. You find the brisk “kuh-click!” it makes when you turn it on and 
+off quite satisfying. Should be useful for lighting up any malls, museums, 
+amusement parks, or haunted starships you happen to come across.
+END
+
+USE
+“Kuh-click!” Nothing happens. Your flashlight remains aloof and despondent. 
+It demands a sacrifice of fresh batteries.
+END
+
+USE***BATTERY
+You insert the battery into your fancy metal stick. With the addition of this 
+fuel source, you have transformed your near useless fancy metal stick into a 
+handheld, directed photon cannon, often colloquially referred to as a 
+"flashlight".
+END
+
+COMBINE***BATTERY
+You insert the battery into your fancy metal stick. With the addition of this 
+fuel source, you have transformed your near useless fancy metal stick into a 
+handheld, directed photon cannon, often colloquially referred to as a 
+"flashlight".
+END
+
+COMBINE***READY
+Your flashlight is working, so you think better of trying to fix what isn't 
+broken and leave the flashlight as it is.
+END
+
+USE***READY
+“Kuh-click!” Photons are now pouring from the end of your photon gun and are 
+splashing about the room at ludicrous speeds. Several loose photons catch you 
+unawares and shoot right into your retinas. You find this causes your brain to 
+produce occasionally useful pictures of things in your immediate vicinity. 
+You think quietly to yourself about the magic of science. 
+(Your flashlight is now emitting light.)
+END
+
+USE***READY***ACTIVATED
+“Kuh-click!” Your flashlight is no longer wantonly flinging photons around the 
+room. (Your flashlight is off.)
+END

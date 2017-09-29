@@ -1,0 +1,28 @@
+OBJECTNAME
+Locker
+END
+
+LOOTABLE
+false
+END
+
+NAMES
+locker
+END
+
+LOOK_AT
+This large locker has room enough to store several large and bulky spacesuits. 
+You see a grinning face staring back at you from a dark corner.
+
+  ,-'""`-.                
+ ;        :             
+:          :           
+:  _    _  ;            
+: ( )  ( ) :             
+::   '`   :;             
+ !:      :!              
+ `:`++++';'
+   `....'
+
+Looks like someone had a sense of humour. You miss your crewmates....
+END

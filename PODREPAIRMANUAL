@@ -1,0 +1,18 @@
+OBJECTNAME
+Pod Repair Manual
+END
+
+LOOTABLE
+false
+END
+
+NAMES
+pod repair
+manual
+pod repair manual
+END
+
+LOOK_AT
+You see a Pod Repair Manual tacked to the wall. Flipping through the pages you 
+realize that you have the knowledge and skills to fix the broken escape pod.
+END

@@ -1,0 +1,61 @@
+OBJECTNAME
+Communications Console
+END
+
+LOOTABLE
+false
+END
+
+NAMES
+console
+communications console
+comms console
+comm console
+communications computer
+comms computer
+comm computer
+computer
+END
+
+LOOK_AT
+The wide flat communications console miraculously survived the explosion
+that tore apart the room. A layer of fine powdered metal covers its surface.
+You brush away the dust, and small, glittering clouds float away in the
+vacuum. The main screen shows a flashing green command prompt.
+END
+
+USE
+You slowly enter several commands, your fingers clumsy in the confines of the
+space suit. You see that the last incoming transmission was from a poorly
+mapped sector just outside the Edgeworth-Kuiper belt. Though the log says the
+message was received and archived, you don't remember decrypting it.
+Curious, but oddly apprehensive, you enter the short command
+to open the message...
+
+Suddenly, a cannonade of strange symbols blast across the screen. 
+Each repeated pattern fills your body with gut-wrenching boom. An involuntary,
+ragged gasp rips from your throat as a stampede of black chaos hacks your 
+mind apart. You squeeze your eyes shut and scream through your clenched teeth
+as you desperately resist pulling off the helmet of your space suit. 
+The booms intensify to blinding white shrieks. As your vision bleeds from
+black to red to white, a small something behind the console cracks. The screen
+shuts off with a muted zip.
+
+The cacophony abruptly dims violent echoes as you gasp for breath. 
+Your skin is cold and clammy, your limbs shake with exhaustion, tears and 
+mucus stream from your eyes and nose. You sob as you clutch your chest, 
+attempting to gather yourself. After several minutes, your breathing slows as 
+you cry softly. You sniff, catching yourself as you try to wipe your face with
+the back of your hand. You tentatively probe your mind to try to make sense of
+the message, but you quickly release your focus with the feeling of jerking
+your hand away from an angry dog. 
+
+You're left with nothing but an impression of a distant, indomitable will. 
+From low in your chest, you feel a simmering undercurrent of rage.
+
+The console appears to be broken.
+END
+
+USE***ACTIVATED
+The console is broken. There's nothing more you can do with it.
+END

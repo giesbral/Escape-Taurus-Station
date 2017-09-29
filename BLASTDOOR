@@ -1,0 +1,59 @@
+OBJECTNAME
+Blast Door
+END
+
+LOOTABLE
+false
+END
+
+NAMES
+blast door
+bridge door
+door
+END
+
+USABLE WITH
+captain's key
+END
+
+LOOK_AT***ACTIVATED
+The emergency blast doors to the ship’s bridge have retracted into the wall. 
+You could now wander the bridge at your leisure.
+END
+
+LOOK_AT
+You see a heavy blast door blocking your way to the bridge. 
+In the middle of the door, there's a small computer screen 
+displaying the message,
+
+ SECURITY LOCKDOWN: CATASTROPHIC FAILURE IN COMMUNICATIONS ARRAY
+ EMERGENCY PROCEDURE ‘TERESHKOVA’ CURRENTLY IN EFFECT
+ OVERRIDE LEVEL: SALAMANDER; COMMANDER LEVEL OVERRIDE REQUIRED
+ PLEASE PRESENT CREDENTIALS
+
+Next to the screen, there's a small circular hole outlined in a dull neon red.
+If it's a keyhole, the key that it fits is certainly complex. You'll have to
+find whatever "CREDENTIALS" the computer is referring to if you want to open
+the door.
+END
+
+USE***CAPTAINSKEY
+You insert the Captain's key into a circular slot in the blast door. A bright
+"Bing!" issues from the center computer panel as the doors whoosh open.
+A brisk male voice, toned halfway between an announcement and a greeting, says
+"WELCOME. CAPTAIN LING."
+END
+
+USE***ACTIVATED
+The blast doors are open and only close in an emergency. If you want to close
+them again, you'll have to put a hole in the hull or install a hostile A.I. 
+onto the ship's computers. 
+Neither of these activities seem like a fair trade for the privilege of being 
+locked out of the bridge again, so you leave the doors alone for now.
+END
+
+USE
+The blast doors are firmly closed. Blowing them open and destroying half
+the bridge seems like a bad idea and there doesn't seem to be a way to open
+them other than finding the right key. You leave them alone for now.
+END

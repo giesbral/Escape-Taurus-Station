@@ -1,0 +1,20 @@
+OBJECTNAME
+Oxygen Monitor
+END
+
+LOOTABLE
+false
+END
+
+NAMES
+oxygen monitor
+oxygen
+monitor
+END
+
+LOOK_AT
+The oxygen monitor displays the current status of every oxygen sensor on board 
+and the overall air quality on board. You notice several major warnings and 
+it is clear to you that the station is being slowly depleted of oxygen. Time is 
+of the essence.
+END

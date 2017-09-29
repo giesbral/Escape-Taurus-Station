@@ -1,0 +1,21 @@
+OBJECTNAME
+Medical Posters
+END
+
+LOOTABLE
+false
+END
+
+NAMES
+medical posters
+poster
+posters
+medical poster
+med poster
+med posters
+END
+
+LOOK_AT
+The medical posters on the wall describe various signs and symptoms to be on 
+the look out for which indicate infection. 
+END

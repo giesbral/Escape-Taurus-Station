@@ -1,0 +1,18 @@
+OBJECTNAME
+Bay Window
+END
+
+LOOTABLE
+false
+END
+
+NAMES
+window
+bay window
+bay
+END
+
+LOOK_AT
+You look outside the bay window. You can see the beautiful, Earth below. You 
+also see countless stars. You want to go home....
+END

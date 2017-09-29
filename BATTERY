@@ -1,0 +1,38 @@
+OBJECTNAME
+Battery
+END
+
+LOOTABLE
+True
+END
+
+NAMES
+battery
+END
+
+USABLE WITH
+flashlight
+END
+
+LOOK_AT
+It's a battery. Looks like the kind that might go in a flashlight.
+END
+
+USE
+The battery can't be used on its own. 
+Maybe you could use it to power something...
+END
+
+USE***FLASHLIGHT
+You insert the battery into your fancy metal stick. 
+With the addition of this fuel source, you have transformed your near useless
+fancy metal stick into a handheld, directed photon cannon, 
+often colloquially referred to as a flashlight.
+END
+
+COMBINE***FLASHLIGHT
+You insert the battery into your fancy metal stick. 
+With the addition of this fuel source, you have transformed your near useless
+fancy metal stick into a handheld, directed photon cannon, 
+often colloquially referred to as a flashlight.
+END

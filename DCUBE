@@ -1,0 +1,35 @@
+OBJECTNAME
+Dilithium Cube
+END
+
+LOOTABLE
+false
+END
+
+NAMES
+cube
+dilithium
+dilithium cube
+END
+
+LOOK_AT
+Dilithium is an extremely complex and hard crystalline structure 
+(2(5)6 dilithlum 2(:)l diallosilicate 1:9:1 heptoferranide), which occurs 
+naturally on some planets. When placed in a high-frequency electromagnetic 
+field, magnetic eddies are induced in its structure which keep charged 
+particles away from the crystal lattice. This prevents it from reacting with 
+antimatter when so energized, because the antimatter atoms never actually 
+touch it. Therefore, it is used to contain and regulate the annihilation 
+reaction of matter and antimatter in a starship's warp core, which otherwise 
+would explode from the uncontrolled annihilation reaction. Though low-quality 
+artificial crystals can be grown or replicated, they are limited in the power 
+of the reaction they can regulate without fragmenting, and are therefore 
+largely unsuitable for warp drive applications. Due to the need for natural 
+dilithium crystals for interstellar travel, deposits of this material are a 
+highly contested resource, and as such dilithium crystals have led to more 
+interstellar conflict than all other reasons combined.
+END
+
+TAKE
+This item does not fit in your inventory.
+END

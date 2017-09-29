@@ -1,0 +1,30 @@
+OBJECTNAME
+Airlock Controls
+END
+
+LOOTABLE
+false
+END
+
+NAMES
+airlock
+airlock controls
+controls
+END
+
+LOOK_AT
+This is a control panel for the airlock. There's a big warning sign hanging 
+above it displaying a gruesomely detailed diagram of an astronaut's head
+exploding because he took his space helmet off. You consider yourself warned.
+END
+
+USE
+You remember from your astronaut training that you need a spacesuit when 
+you're in space, or space is very bad for you. You nod to yourself sagely
+and decide to leave the controls alone until you have the proper equipment.
+END
+
+USE***READY
+The airlock computer acknowledges that you're wearing the proper attire for
+a dalliance with space and prepares the airlock for your departure.
+END

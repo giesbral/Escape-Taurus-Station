@@ -1,0 +1,42 @@
+ROOMNAME
+Medical Bay
+END
+
+VISITED
+false
+END
+
+LONGFORM
+Doc ran the Med Bay like a drill sargeant. It was always so aseptic and clean 
+you could see yourself in so many shiny surfaces. The Med Bay on this station 
+was particularly advanced. It could handle everything from your everyday 
+sprains to broken bones and even cosmic radiation poisoning. Yeah, everyone 
+liked Doc.  
+END
+
+SHORTFORM
+You are located in the Medical Bay.
+END
+
+OBJECTS
+AutoDoc Bed
+Glass Cabinets
+Medical Posters
+Corpse
+END
+
+FORWARD
+Recreation Room
+END
+
+AFT
+NONE
+END
+
+STARBOARD
+NONE
+END
+
+PORT
+NONE
+END

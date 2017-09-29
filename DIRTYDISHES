@@ -1,0 +1,23 @@
+OBJECTNAME
+Dirty Dishes
+END
+
+LOOTABLE
+false
+END
+
+NAMES
+dishes
+dirty dishes
+END
+
+LOOK_AT
+This mountain of dishes, like all mountains, started small but grew over time 
+with steady, tectonic persistence. You can see a colony of the tiny black
+arthropods that pass for space cockroaches quietly blinking at you from among
+the filthy plates, cups, bowls, silverware, pots, pans, kitchen gadgets, 
+and serving trays. You imagine this probably constitutes some sort of 
+health hazard, and you should probably do something. But then again, you've 
+got a lot on your plate right now, and you're willing to bet someone else 
+will take care of it if you wait long enough.
+END

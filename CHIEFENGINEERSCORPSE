@@ -1,0 +1,48 @@
+OBJECTNAME
+Chief Engineer's Corpse
+END
+
+LOOTABLE
+false
+END
+
+NAMES
+corpse
+chief engineer's corpse
+body
+chief Engineer
+chief
+sevda
+sev
+crewmate
+END
+
+OBJECTS
+Crane Key
+END
+
+LOOK_AT
+You examine one of the bodies. It's been torn apart in such a horrific fashion
+that you find it impossible to identify, but you see the blue insignia of the
+engineering division above a blood spattered name tag. You tentatively reach 
+down to rub some of the crusted blood away with your thumb. The name tag says
+that this was the chief engineer, Sevda. Everyone called her Sev.
+You used to come here with her sometimes. As the Earth turned slowly above 
+you, she would tell you about her life back home in Turkey, her cat 
+Philosopher, her little brother Ata. You stare at the name tag for several 
+long minutes as a numb, dead hollow slowly fills your chest.
+You need to get out of here.
+END
+
+SEARCH
+You see a dull metal something protruding from one of the chief engineer's
+front pockets. It's attached to a bit of black string, which you snatch at
+quickly, trying not to disturb the body. A quiet ringing echoes through the 
+solarium as you pull it free. It's a small, simple key that's been labeled 
+with a bit of masking tape. The label reads, "CRANE".
+You put it in your pocket.
+END
+
+SEARCH***ACTIVATED
+There's nothing else here. You leave the body alone for now.
+END

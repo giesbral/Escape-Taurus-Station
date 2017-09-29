@@ -1,0 +1,44 @@
+OBJECTNAME
+Captain's Desk
+END
+
+LOOTABLE
+false
+END
+
+NAMES
+captain's desk
+desk
+END
+
+OBJECTS
+Pen
+Paper
+Pocket Computer Charger
+Captain's Key
+END
+
+LOOK_AT
+This broad hardwood desk is the property of Captain Jin Wei Ling. You 
+remember him saying it was a gift from his father. He either loves it,
+or feels some obligation to it, as he's kept it polished to a high gloss;
+the wood grain makes squiggly paths across the surface, like streams
+in the mountains. It has an excellent collection of little drawers and 
+its fragrant hardwoods fill the room with a subtle spice.
+Above the desk there's a picture of the captain and his family standing in 
+front of the Academy building in New Sao Paulo.
+END
+
+SEARCH
+Imagining you might find something useful, you (somewhat gleefully) pull open 
+all the little drawers. You uncover the following treasures: 
+a fancy fountain pen, a sheet of real wood-pulp paper, a charging 
+device for a pocket computer, and the Captain's station key. 
+You add them all to your pockets.
+END
+
+SEARCH***ACTIVATED
+You pull open all the little drawers again and giggle softly to yourself. 
+While you could probably do this forever, the activity doesn't reveal any 
+additional items that might be useful.
+END

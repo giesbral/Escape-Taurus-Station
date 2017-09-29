@@ -1,0 +1,33 @@
+OBJECTNAME
+Captain's Key
+END
+
+LOOTABLE
+true
+END
+
+NAMES
+key
+captain's key
+red key
+cylinder key
+END
+
+USABLE WITH
+blast door
+END
+
+LOOK_AT
+This bright red key belonged to the station's captain and looks like a
+hollow, knobby cylinder. Looking down the barrel of it you can see an 
+intricate, shallow labyrinth covering the inside of the tube. 
+A little blue light is set in the handle, and it chirps at you occasionally.
+This key should be all the clearance you need to get into the bridge.
+END
+
+USE***BLASTDOOR
+You insert the Captain's key into a circular slot in the blast door and a 
+bright "Bing!" issues from the center computer panel as the doors whoosh open.
+A brisk male voice, toned halfway between an announcement and a greeting, says
+"WELCOME. CAPTAIN LING." 
+END

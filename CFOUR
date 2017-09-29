@@ -1,0 +1,63 @@
+OBJECTNAME
+C4 Pack
+END
+
+LOOTABLE
+true
+END
+
+NAMES
+c4 pack
+pack
+brick
+c4
+explosive
+END
+
+USABLE_WITH
+security gate
+END
+
+LOOK_AT
+This pack of C4 would pack a mighty punch! It could come in handy later.
+END
+
+TAKE
+You pick up the pack of C4. You might IGNITE it later.
+END
+
+IGNITE
+You don't want to blow up just any random part of the ship. You want to blow
+up a very specific part of the ship. There's only so much C4 to go around. You
+leave the C4 alone for now.
+END
+
+USE
+You don't want to blow up just any random part of the ship. You want to blow
+up a very specific part of the ship. There's only so much C4 to go around. You
+leave the C4 alone for now.
+END
+
+USE***SECURITYGATE
+You press the some of your C4 against the center of the security gate and pull
+the pin to ignite the fuse. You quickly run very far away, crouch behind a big
+metal locker, and put your fingers in your ears like a cartoon villain 
+destroying a railway. A few seconds later, a large explosion rips through the
+Engineering Bay, flinging bits of smoking metal just past your head. As the 
+tremors subside, you peer over the locker to admire your handiwork. 
+You've managed to put a large hole in the center of the security gate, its
+edges still glowing with heat. You're pleasantly surprised at how well that
+went.
+END
+
+IGNITE***SECURITYGATE
+You press the some of your C4 against the center of the security gate and pull
+the pin to ignite the fuse. You quickly run very far away, crouch behind a big
+metal locker, and put your fingers in your ears like a cartoon villain 
+destroying a railway. A few seconds later, a large explosion rips through the
+Engineering Bay, flinging bits of smoking metal just past your head. As the 
+tremors subside, you peer over the locker to admire your handiwork. 
+You've managed to put a large hole in the center of the security gate, its
+edges still glowing with heat. You're pleasantly surprised at how well that
+went.
+END

@@ -1,0 +1,17 @@
+OBJECTNAME
+Cargo Shelves
+END
+
+LOOTABLE
+false
+END
+
+NAMES
+cargo shelves
+shelves
+END
+
+LOOK_AT
+The shelves of the Cargo Bay hold all sorts of items. You see dried food packs, 
+copper wiring, and spare batteries to name a few.
+END

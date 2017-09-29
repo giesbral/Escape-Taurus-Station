@@ -1,0 +1,29 @@
+OBJECTNAME
+Pod Navigation Chip
+END
+
+LOOTABLE
+true
+END
+
+NAMES
+chip
+navigation chip
+pod navigation chip
+pod chip
+pod navigation
+END
+
+USABLE WITH
+broken escape pod
+END
+
+LOOK_AT
+This is a large black computer chip in a glass case. 
+The label on the back of the case says that, once it's installed in an
+escape pod, the pod should be able to find its way home automatically.
+It also says that the pod will play soothing jazz music during the trip. 
+You think that, perhaps there is a way to turn off this feature. 
+The label says no, there's no way to silence the soothing jazz. 
+You observe that the chip is a mixed blessing at best.
+END

@@ -1,0 +1,27 @@
+OBJECTNAME
+Laser Messaging Array
+END
+
+LOOTABLE
+false
+END
+
+NAMES
+laser
+messaging array
+array
+laser messaging
+laser messaging array
+END
+
+LOOK_AT
+You see the controls for the laser array used to send messages across space
+at light speed. The console seems dead, but you press several keys in a
+hopeful attempt to reboot the system. Several of the status lights sputter 
+optimistically before the system dies completely. Grey smoke starts to ooze 
+from the back of the console. You are overcome with dismay for a quick moment
+before laughing to yourself, remembering the the laser emitter was attached
+to the bulkhead beneath the floor of the comms center. Seeing that the floor
+of the comms center is now a giant crater, it's doubtful that you would've 
+been able to send a distress signal anyway.
+END

@@ -1,0 +1,64 @@
+OBJECTNAME
+Security Gate
+END
+
+LOOTABLE
+false
+END
+
+NAMES
+gate
+security gate
+END
+
+USABLE WITH
+keyring
+END
+
+LOOK_AT***ACTIVATED
+You see an armored security gate with a large smoking hole in it. You could
+get into the cargo bay whenever you wanted now.
+END
+
+LOOK_AT
+You see a large security gate blocking your way to the Cargo Bay. 
+The gate is made of thick armor panels that appear to collapse in on each 
+other when it opens. There's a control panel to lower the gate, but it looks 
+like someone has destroyed it. Without the controls, the gate looks 
+impenetrable to anything short of a small bomb.
+END
+
+USE***CFOUR
+You press the C4 pack against the center of the security gate and pull the pin
+to ignite the fuse. You quickly run very far away, crouch behind a big
+metal locker, and put your fingers in your ears like a cartoon villain 
+destroying a railway. A few seconds later, a large explosion rips through the
+Engineering Bay, flinging bits of smoking metal just past your head. As the 
+tremors subside, you peer over the locker to admire your handiwork. 
+You've managed to put a large hole in the center of the security gate, its
+edges still glowing with heat. You're pleasantly surprised at how well that
+went.
+END
+
+USE***ACTIVATED
+The gate already has a large hole in it and you're fresh out of C4.
+You leave the gate alone for now.
+END
+
+USE
+The control panel to lower the security gate appears to have been
+intentionally destroyed. There's no way to open the gate now, though you
+imagine that a good bomb would probably do it.
+END
+
+IGNITE***CFOUR
+You press the C4 pack against the center of the security gate and pull the pin
+to ignite the fuse. You quickly run very far away, crouch behind a big
+metal locker, and put your fingers in your ears like a cartoon villain 
+destroying a railway. A few seconds later, a large explosion rips through the
+Engineering Bay, flinging bits of smoking metal just past your head. As the 
+tremors subside, you peer over the locker to admire your handiwork. 
+You've managed to put a large hole in the center of the security gate, its
+edges still glowing with heat. You're pleasantly surprised at how well that
+went.
+END

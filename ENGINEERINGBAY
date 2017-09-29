@@ -1,0 +1,47 @@
+ROOMNAME
+Engineering Bay
+END
+
+VISITED
+false
+END
+
+LONGFORM
+The Engineering Bay is home to the station’s considerable library of repair 
+equipment and can store large pieces of machinery while they are being worked 
+on. Welding tools, batteries of all shapes and sizes, and hundreds of spare 
+parts are all neatly organized and stored here should they be needed at any 
+time to repair the station. On a workbench, you see a soldering iron, heaps of
+discarded computer components, and spools of transparent aluminum. Near the
+seemingly endles rows of storage shelves, there's a large cargo crane that
+looks like a bright red robotic arm.
+END
+
+SHORTFORM
+You are located in the Engineering Bay.
+END
+
+OBJECTS
+Plasma Cutter
+Battery
+Cargo Crane
+Storage Shelves
+Security Gate
+Decontamination Door
+END
+
+FORWARD
+Research Lab
+END
+
+AFT
+Cargo Bay
+END
+
+STARBOARD
+Hydroponics
+END
+
+PORT
+NONE
+END

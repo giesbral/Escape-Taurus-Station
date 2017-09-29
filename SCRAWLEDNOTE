@@ -1,0 +1,41 @@
+OBJECTNAME
+Scrawled Note
+END
+
+LOOTABLE
+false
+END
+
+NAMES
+scrawled note
+note
+END
+
+LOOK_AT
+This appears to be a piece of fabric torn from a station jumpsuit. 
+Someone has used a black marker to cover it with frantic, spidery print. 
+It was pinned to the bulkhead with a supermagnet pulled from a data drive, 
+which strikes you as a bit odd.
+END
+
+READ
+The note reads:
+
+"We cannot get out. We cannot get out. They have taken the bridge 
+and the comms. We still hold the Crew Quarters but hope is fading now - 
+we cannot get out. 
+The end comes soon. We hear screams, screams in the deep...
+They are coming...."
+
+This seems a bit dramatic to you. If these were really the author's last
+moments, you would think it would be a better use of their remaining time
+to write down some useful information instead of some cryptic note. You
+leave the note where it is.
+END
+
+TAKE
+The supermagnet pinning the note to the wall remains steadfast, despite
+several minutes of prying. You imagine it mocking you, which is a cynical 
+thing to attribute to a inanimate supermagnet. It also looks like the note is 
+staying where it is.
+END

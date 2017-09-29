@@ -1,0 +1,24 @@
+OBJECTNAME
+Pod Fusion Generator
+END
+
+LOOTABLE
+true
+END
+
+NAMES
+generator
+fusion generator
+pod fusion generator
+END
+
+USABLE WITH
+broken escape pod
+END
+
+LOOK_AT
+This large fusion generator was designed to provide power to one of the 
+station's escape pods. It looks very much like an upturned, metal ice cream 
+cone. Its emitting a dull yellow glow from venting around its base and is 
+warm to the touch.
+END

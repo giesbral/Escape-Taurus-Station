@@ -1,0 +1,20 @@
+OBJECTNAME
+Charred Photo
+END
+
+LOOTABLE
+false
+END
+
+NAMES
+photo
+charred photo
+END
+
+LOOK_AT
+You see a partially charred photo of the entire crew. Everyone is smiling, 
+everyone is looking forward to their futures. You reflect on the lives lost
+and wonder what happened here, what was this all for, why you weren't here
+to do something. 
+You really want to go home.
+END

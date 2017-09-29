@@ -1,0 +1,48 @@
+ROOMNAME
+Armory
+END
+
+VISITED
+false
+END
+
+LONGFORM
+The station's armory is top notch. Row upon row of rifles of every 
+make and caliber. Every repair, every modification you could imagine could be 
+completed in this room. The normally well ordered space looks to be in 
+complete  disarray. You see coil guns and gauss rifles lying on the floor 
+next to bricks of C4. Jesus....someone needs to clean this shit up.
+END
+
+SHORTFORM
+You are located in the Armory.
+END
+
+DARK
+You're inside the station's armory. It's very dark and you can't see anything. 
+It smells like oily gunpowder in here. In your head, a small, insistent voice
+urges you to watch your step.
+END
+
+OBJECTS
+Gauss Rifle
+C4 Pack
+Satellite Blueprint
+Dilithium Cube
+END
+
+FORWARD
+NONE
+END
+
+AFT
+NONE
+END
+
+STARBOARD
+NONE
+END
+
+PORT
+Security Office
+END

@@ -1,0 +1,53 @@
+OBJECTNAME
+Security Chief's Corpse
+END
+
+LOOTABLE
+false
+END
+
+NAMES
+corpse
+security chief's corpse
+body
+security chief
+chief
+hal
+crewmate
+END
+
+OBJECTS
+Keyring
+END
+
+LOOK_AT
+This is the corpse of your former crewmate, Hal. When he was alive he was 
+quite a strapping fellow, with broad shoulders and a jaw like the bow of a 
+battlecruiser. They say the marine corps made him fight without a shirt 
+because of the psychological effects it had on the enemy. Detractors admitted
+that the way he handled a laser pistol made Eisenhower look like two kittens 
+playing in the laundry. He routinely ate a complete breakfast.
+
+That is to say, you’re sure the someone who put all those gaping holes in his 
+torso must be a very dangerous someone.
+END
+
+SEARCH
+You deny your better instincts and instead decide to rifle through the pockets 
+of your freshly dead crewmate. You attempt a deep breath but your guts 
+constrict violently as the smell of warm copper fills your nose and mouth. 
+You begin, and quickly your once furtive movements grow frantic as you paw at
+the body of your mangled friend. You hear a panicked, mewling sound that can 
+only be coming from your own throat. The violet tinge of madness begins to
+crowd at the edges of your swiftly spiraling sanity! 
+
+Hal, on the other hand, seems to take the whole procedure rather stoically. 
+
+For your efforts, you are abruptly rewarded with a ring of fiddly looking 
+keys, which you put in your pocket.
+END
+
+SEARCH***ACTIVATED
+You’ve thought better of this activity and have decided to give Hal his space 
+for now.
+END

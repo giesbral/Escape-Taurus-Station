@@ -1,0 +1,48 @@
+ROOMNAME
+Captain's Quarters
+END
+
+VISITED
+false
+END
+
+LONGFORM
+Jin Wei Ling was a meticulous captain and his quarters reflects his 
+devotion to order. Nothing is out of place. A large hardwood desk fills a
+corner of the room. Pinned to the wall, there is a scrawled note.
+END
+
+SHORTFORM
+You are located in the Captain's Quarters.
+END
+
+DARK
+It's oppressively dark in here. You hold on to the small reassurance granted
+by the gaggle of cheery yellow lights from the station monitors. As you wait
+in the dark, you imagine them slowly blinking out, one by one. 
+Each a small, lonely death, consumed by an unknown beast in the black. 
+
+You quickly shake the thoughts away. 
+Good gravy, your imagination has been a real downer lately.
+END
+
+OBJECTS
+Scrawled Note
+Captain's Desk
+END
+
+FORWARD
+NONE
+END
+
+AFT
+Security Office
+END
+
+STARBOARD
+NONE
+END
+
+PORT
+Solarium
+END

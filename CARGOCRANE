@@ -1,0 +1,75 @@
+OBJECTNAME
+Cargo Crane
+END
+
+LOOTABLE
+false
+END
+
+NAMES
+crane
+cargo crane
+END
+
+USABLE WITH
+Crane Key
+Storage Shelves
+END
+
+LOOK_AT
+This cargo crane looks more like a robotic arm than a piece of construction
+equipment. It's long lifting boom has at least three ball joints and is 
+painted bright orange. Presumably so it's easier to see when it's swinging 
+towards your head. It's attached to a guide rail in the floor and looks like 
+it could reach anywhere in the engineering bay. However, it doesn't have any 
+power at the moment, so it's not going to reach anything until you can find a 
+way to turn it on. There's a little slot for a key in the control panel at 
+its base, which your finely honed mind tells you must be a clue. 
+END
+
+LOOK_AT***READY
+This cargo crane looks more like a robotic arm than a piece of construction
+equipment. It's long lifting boom has at least three ball joints and is 
+painted bright orange. Presumably so it's easier to see when it's swinging 
+towards your head. It's attached to a guide rail in the floor and looks like 
+it could reach anywhere in the engineering bay. It's currently powered and
+humming contentedly.
+END
+
+USE
+You fiddle with the crane's controls, but nothing happens. You feel slightly
+disappointed, and make a note to lower your expectations before trying that
+again. 
+END
+
+USE***CRANEKEY
+The key requires some forceful encouragement, but finally clicks into the lock
+on the crane's control panel. You turn the key and the crane begins to hum 
+contentedly as several status lights blink on. Everything appears to be in 
+working order, and you can now crane around the engineering bay as much as 
+you'd like.
+END
+
+USE***READY
+You use the controls to swing the crane arm around. It thrashes about like a
+giant snake dying in a swimming pool and you imagine the possibilities if you
+covered the crane arm with a giant puppet. At the same time, you recognize
+that this isn't doing very much to further your goals. Maybe you could try 
+using the crane with those storage shelves...
+END
+
+USE***READY***STORAGESHELVES
+As you move the cargo crane towards the storage shelves, the crane arm 
+suddenly springs to life. It appears to be executing a pre-programmed mission 
+to rearrange the shelves' contents. The arm is moving at a blinding speed; you
+can see little more than a red blur as the machine feverishly organizes. 
+Several minutes later, everything on the shelves appears to be ... reverse 
+alphabetized? You're not sure what purpose that would serve, but many 
+components that were out of reach before are now at your fingertips.
+END
+
+USE***READY***ACTIVATED
+You fiddle with the crane's controls, but the crane appears to be in some sort
+of cooldown mode after it's bout of frenzied organizing. You leave it alone
+for now. 
+END

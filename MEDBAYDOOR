@@ -1,0 +1,28 @@
+OBJECTNAME
+Collapsed Passageway
+END
+
+LOOTABLE
+false
+END
+
+NAMES
+collapsed passageway
+END
+
+LOOK_AT***ACTIVATED
+END
+
+LOOK_AT
+You see the collapsed passageway that leads towards the Medical Bay. You will 
+need to clear the debris somehow.
+END
+
+USE***GAUSSRIFLE
+END
+
+USE***ACTIVATED
+END
+
+USE
+END

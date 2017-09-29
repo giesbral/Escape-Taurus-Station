@@ -1,0 +1,40 @@
+OBJECTNAME
+Pen
+END
+
+LOOTABLE
+true
+END
+
+NAMES
+pen
+fancy pen
+END
+
+USABLE WITH
+paper
+END
+
+LOOK_AT
+A silver fountain pen that smells faintly of cleaning alcohol. The phrase,
+"For Our Fearless Leader" is etched into the side.
+END
+
+USE
+You wave the around pen like a sword, decorating the bulkhead and deck with
+spatters of ink. Other than making a bit of a mess, this behavior doesn't
+appear to be particularly effective.
+END
+
+USE***PAPER
+You put pen to paper. All is still for a moment. Another moment. A black blot 
+spreads slowly from the tip of your pen. Finally, you decide to write
+something encouraging to yourself. You print, "Be your best self today!" at 
+the top of the page. You reflect that there were probably better uses for this 
+paper, but fold it and put it back in your pocket anyway.
+END
+
+USE***ACTIVATED
+You feel okay with what you've written so far, and wouldn't want to crowd the 
+page with extraneous details. You decide to leave the paper alone for now.
+END

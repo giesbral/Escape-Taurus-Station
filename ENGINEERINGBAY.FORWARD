@@ -1,0 +1,32 @@
+NAMES
+research lab
+lab
+decon station door
+decon station
+sealed doors
+sealed door
+END
+
+IS_LOCKED
+true
+END
+
+DESCRIPTION
+Forward, you a pair of hermetically sealed doors to the decon station that
+leads to the research labs. The doors have been unlocked with your keycard.
+END
+
+LOCKED
+Forward, you see a pair of hermetically sealed doors to the decon station that
+leads to the research labs. A computer screen above a keycard reader next
+to the doors says,
+	
+ SECURITY LOCKDOWN: CATASTROPHIC FAILURE IN COMMUNICATIONS ARRAY
+ EMERGENCY PROCEDURE ‘TERESHKOVA’ CURRENTLY IN EFFECT
+ OVERRIDE LEVEL: BASILISK; LOCAL OVERRIDE REQUIRED
+ PLEASE SCAN KEYCARD
+
+The machine doesn't appear to be joking. It looks like you'll have to find one
+of these keycards everyone is talking about if you want to get into the 
+research labs.
+END

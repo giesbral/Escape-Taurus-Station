@@ -1,0 +1,19 @@
+OBJECTNAME
+Lab Specimen
+END
+
+LOOTABLE
+false
+END
+
+NAMES
+lab specimen
+specimen
+END
+
+LOOK_AT
+You look closely at the Lab Specimen. There is a discolored shadow growing 
+across the agarose gel. The specimen is unlabeled but you remember one of your 
+station coworkers mentioning that they had found something interesting in a 
+atmoshpheric sample that was recently collected.
+END

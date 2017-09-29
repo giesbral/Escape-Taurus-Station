@@ -1,0 +1,23 @@
+OBJECTNAME
+Keycard
+END
+
+LOOTABLE
+true
+END
+
+NAMES
+keycard
+card
+END
+
+LOOK_AT
+The markings on the keycard indicate that it can be used to open 
+Decontamination (Decon) doors. Those are only located in one place on the 
+station. This keycard should be able to get you into the Research Lab.
+END
+
+USE***DECONDOOR
+You insert the keycard into a slot in the decontamination door and a 
+bright "Bing!" issues from a nearby intercom as the doors whoosh open.
+END

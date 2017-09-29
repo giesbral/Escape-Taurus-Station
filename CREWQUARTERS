@@ -1,0 +1,56 @@
+ROOMNAME
+Crew Quarters
+END
+
+VISITED
+false
+END
+
+LONGFORM
+You wake up sitting on the floor, propped up against a stack of 
+berths built into the wall. The side of your head throbs. You probe it 
+gingerly, wince, and bring your hand away wet with blood. The dull maroon 
+smears on the floor tell that you were dragged here, probably by the 
+crew member slumped beside you. Giving him a once-over with 
+your unswollen eye, you find his name tag. 
+"HAL", it says, in serious-minded block print. 
+As your cloudy thoughts coalesce, you remember that Hal is the ship's 
+security chief, and your crewmate. Rather, was your crewmate; 
+Hal has contracted the glassy stare of the dead. 
+The series of large puncture wounds thundering across his abdomen bring 
+to mind startling after-images of red violence. 
+You get up, too quickly, and brace yourself against the bulkhead. 
+You take several deep breaths, attempting to quiet the 
+staccato pounding in your head. 
+When you're ready, you take a slow, sidelong look around the room. 
+You find that you're in the ship's crew quarters.
+END
+
+SHORTFORM
+This is the Crew Quarters, where you woke up. 
+As you enter, your gut jumps into your throat. 
+You gasp for breath as you choke on a startled scream. 
+Right, Hal's body is here. You'd forgotten about him somehow.
+END
+
+OBJECTS
+Photos
+Station Terminal
+Security Chief's Corpse
+END
+
+FORWARD
+Hydroponics
+END
+
+AFT
+NONE
+END
+
+STARBOARD
+Recreation Room
+END
+
+PORT
+NONE
+END

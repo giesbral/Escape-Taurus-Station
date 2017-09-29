@@ -1,0 +1,43 @@
+OBJECTNAME
+Gauss Rifle
+END
+
+LOOTABLE
+true
+END
+
+NAMES
+gauss rifle
+rifle
+gun
+END
+
+USABLE WITH
+Collapsed Passage
+END
+
+LOOK_AT
+The Gauss Rifle you are looking at is a type of projectile accelerator 
+consisting of one or more coils used as electromagnets in the configuration of 
+a linear motor that accelerates a ferromagnetic or conducting projectile 
+to a high velocity. It's pretty straightforward stuff really; you can even buy
+small, disposable ones back on Earth for weddings or vacation trips.
+END
+
+TAKE
+You pick up the Gauss Rifle and place it in your inventory.
+END
+
+USE
+You decide to save your ammo. Just in case you run into who or whatever
+wrecked the station and they're still feeling feisty.
+END
+
+USE***COLLAPSEDPASSAGE
+You level your Gauss rifle at the blockage and loose a few rounds. You remark
+at how cathartic and yet extremely dangerous this is. Minute thumps shake your
+eardrums as the projectiles split the air. Small explosions cover you with 
+black, melted grit and fragments of bulkhead. When the dust settles, the
+debris that blocked the passage is now scattered around the room and the way
+to the Medical bay is clear.
+END

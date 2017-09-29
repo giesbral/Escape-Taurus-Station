@@ -1,0 +1,21 @@
+OBJECTNAME
+Computer Terminal
+END
+
+LOOTABLE
+false
+END
+
+NAMES
+computer
+terminal
+computer terminal
+END
+
+LOOK_AT
+The computer terminal displays the overall status of the station. 
+Looks like some portions of the station are without power. Hull integrity is 
+holding at 82%. Fuel cells A & B are depleted. Fuel cells C & D are steadily 
+dropping. MAYDAY beacon has been activated and is transmitting but no response 
+received on any of the hailing frequencies.
+END

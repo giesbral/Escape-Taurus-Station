@@ -1,0 +1,40 @@
+ROOMNAME
+Recreation Room
+END
+
+VISITED
+false
+END
+
+LONGFORM
+The rec room on the station was always a nice place to relax and enjoy the 
+company of your fellow crewmates after a long day. Plenty of streaming videos 
+to watch and snacks to munch on during your down time. The station had a nice 
+collection of computer games that we could play.
+END
+
+SHORTFORM
+You are located in the Recreation Room.
+END
+
+OBJECTS
+Bay Window
+Large Video Monitor
+Collapsed Passage
+END
+
+FORWARD
+NONE
+END
+
+AFT
+Medical Bay
+END
+
+STARBOARD
+NONE
+END
+
+PORT
+Crew Quarters
+END

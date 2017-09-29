@@ -1,0 +1,35 @@
+OBJECTNAME
+Birthday Hat
+END
+
+LOOTABLE
+true
+END
+
+NAMES
+hat
+birthday hat
+crown
+birthday crown
+END
+
+LOOK_AT
+This hat looks like it was made from old cereal boxes and broken computer 
+components. It very much resembles a little crown. Grey computer keys have been 
+glued to the front to spell, "HAPPY BIRTHDAY HAL". 
+END
+
+TAKE
+You pick up the birthday hat. It looks like a crown and is suprisingly heavy. 
+You add it to your pockets.
+END
+
+WEAR
+You gingerly fit the crown around your temples. You feel like the birthday king. 
+You quickly take it off again before the power goes to your head.
+END
+
+USE
+You gingerly fit the crown around your temples. You feel like the birthday king. 
+You quickly take it off again before the power goes to your head.
+END

@@ -1,0 +1,19 @@
+OBJECTNAME
+Dining Table
+END
+
+LOOTABLE
+false
+END
+
+NAMES
+table
+dining table
+END
+
+LOOK_AT
+This long, cafeteria-style table is covered in the technicolor remains of what 
+looks like a hastily abandoned birthday party. Red confetti and yellow dining 
+chairs are scattered around it. Above the scene, a birthday banner billows 
+serenely in the current of an air conditioner.
+END

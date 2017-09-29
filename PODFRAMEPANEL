@@ -1,0 +1,21 @@
+OBJECTNAME
+Pod Frame Panel
+END
+
+LOOTABLE
+true
+END
+
+NAMES
+pod frame
+frame
+pod frame panel
+frame panel
+panel
+END
+
+LOOK_AT
+This Pod Frame Panel is made of jet black reinforced carbon-carbon for maximum 
+thermal protection. The panel provides protection against temperatures up to 
+5000 K. Thats A Spicy Meatball!
+END

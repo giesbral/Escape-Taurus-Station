@@ -1,0 +1,19 @@
+OBJECTNAME
+Electron Microscope
+END
+
+LOOTABLE
+false
+END
+
+NAMES
+electron microscope
+microscope
+END
+
+LOOK_AT
+You look closely at the Electron Microscope. It weighs a couple hundred pounds 
+but it is worth its weight in gold. This tool has been proven invaluable in our 
+research. You notice some discoloration on the side....almost as if something 
+has been growing on its metallic skin.
+END

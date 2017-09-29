@@ -1,0 +1,48 @@
+OBJECTNAME
+Paper
+END
+
+LOOTABLE
+True
+END
+
+NAMES
+paper
+END
+
+USABLE WITH
+pen
+END
+
+LOOK_AT
+This is a sheet of creamy white paper, that appears to be made from real wood.
+You didn't realize the captain went in for such opulence, but then you guess 
+it was probably for the hand-written letters the captain sometimes sent home. 
+The paper has taken on the spicy scents of orange and cinnamon. You wonder 
+at how long the captain had it hidden in his desk.
+END
+
+LOOK_AT***ACTIVATED
+This is a sheet of creamy white paper on which you've written the short note,
+"Be your best self today!" You begin to imagine the alternate universes 
+containing the you's that were varying degrees of not their best selves today. 
+You blink slowly and remark that you have the beginnings of a bad headache.
+END
+
+USE
+You vigorously shake the sheet of paper. The paper expresses some mild 
+discomfort at your man-handling, but otherwise nothing happens.
+END
+
+USE***PEN
+You put pen to paper. All is still for a moment. Another moment. A black blot 
+spreads slowly from the tip of your pen. Finally, you decide to write
+something encouraging to yourself. You print, "Be your best self today!" at 
+the top of the page. You reflect that there were probably better uses for this 
+paper, but fold it and put it back in your pocket anyway.
+END
+
+USE***ACTIVATED
+You feel okay with what you've written so far, and wouldn't want to crowd the 
+page with extraneous details. You decide to leave the paper alone for now.
+END

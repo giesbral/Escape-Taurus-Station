@@ -1,0 +1,23 @@
+OBJECTNAME
+Birthday Cake
+END
+
+LOOTABLE
+false
+END
+
+NAMES
+cake
+birthday cake
+END
+
+LOOK_AT
+Small, multicolored pools of wax are melted into the top of this cake. They
+partially obscure the message, "Happy Birthday Hal!" written blue icing.
+The stale air has hardened the frosting into an impenetrable, white crust. 
+It looks otherwise untouched, which more than anything else you've seen so far 
+fills you with cold dread: what horrible crisis would force the crew to 
+abandon a perfectly good cake? 
+
+As you turn away, your hands begin to tremble nervously.
+END

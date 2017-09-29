@@ -1,0 +1,22 @@
+OBJECTNAME
+Satellite Blueprint
+END
+
+LOOTABLE
+false
+END
+
+NAMES
+satellite blueprint
+satellite
+blueprint
+END
+
+LOOK_AT
+This is a classfied blueprint of a KH11 Keyhole Spy Satellite! What is it 
+doing laying out in the open!
+END
+
+TAKE
+No! You cannot take these incredibly sensitive plans with you!
+END

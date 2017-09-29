@@ -1,0 +1,53 @@
+ROOMNAME
+Communications Center
+END
+
+VISITED
+false
+END
+
+LONGFORM
+You are in the communications center. You remember that you used to work here,
+though these memories are strangely hazy. You dimly recall that you were 
+responsible for security and translation of communications from deep space. 
+However, the comm center you are in now is almost unrecognizable to you. 
+The deck is gone, wrenched free by a wild explosion. Past the ragged edge of 
+the bulkhead you can see the unrelenting void of space. Just peeking over the
+shattered steel and frayed insulation, a sliver of the white moon. 
+A riot of debris languidly twirling through the airless room sparkles and 
+flashes in the moonlight. A sudden chill crawls through your bones, despite 
+the warm cocoon of your space suit.
+
+Across the breach, you can see what remains of the communications computers. 
+The cold orange glimmer of several status lights tells you that at least
+some of the equipment is still functional.
+END
+
+SHORTFORM
+You are located in the Communications Center. An explosion has removed the
+floor and all the air in the room. Some of the communications equipment
+is still functional.
+END
+
+OBJECTS
+Pod Navigation Chip
+Communications Console
+Big Hole
+Laser Messaging Array
+END
+
+FORWARD
+NONE
+END
+
+AFT
+Solarium
+END
+
+STARBOARD
+NONE
+END
+
+PORT
+NONE
+END

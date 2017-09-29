@@ -1,0 +1,22 @@
+NAMES
+medical bay
+medical
+passageway
+collapsed passage
+collapsed passageway
+passage way
+passage
+END
+
+IS_LOCKED
+true
+END
+
+DESCRIPTION
+Aft, you see a cleared passageway towards the Medical Bay.
+END
+
+LOCKED
+Aft, you see a collapsed passageway towards the Medical Bay. You will need to 
+clear the debris somehow.
+END

@@ -1,0 +1,21 @@
+NAMES
+cargo bay
+security gate
+gate
+END
+
+IS_LOCKED
+true
+END
+
+DESCRIPTION
+Aft, you see the security gate you blasted open leading to the Cargo Bay.
+END
+
+LOCKED
+Aft, you see a large security gate blocking your way to the Cargo Bay. 
+The gate is made of thick armor panels that appear to collapse in on each 
+other when it opens. There's a control panel to lower the gate, but it looks 
+like someone has destroyed it. Without the controls, the gate looks 
+impenetrable to anything short of a small bomb.
+END

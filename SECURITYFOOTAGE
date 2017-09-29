@@ -1,0 +1,38 @@
+OBJECTNAME
+Security Footage
+END
+
+LOOTABLE
+True
+END
+
+NAMES
+security footage
+security tape
+footage
+tape
+END
+
+USABLE WITH
+Tape Player
+END
+
+LOOK_AT
+It's a black microfilm cassette.
+The label says it's security footage from two weeks ago.
+END
+
+USE
+You can't use the cassette on its own.
+You'll need a working tape player if you want to watch the footage. 
+END
+
+USE***TAPEPLAYER
+You insert the cassette into the tape player,
+which accepts it with a series of business-like clicks.
+END
+
+COMBINE***TAPEPLAYER
+You insert the cassette into the tape player,
+which accepts it with a series of business-like clicks.
+END

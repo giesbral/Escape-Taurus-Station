@@ -1,0 +1,20 @@
+OBJECTNAME
+Pocket Computer Charger
+END
+
+LOOTABLE
+true
+END
+
+NAMES
+charger
+pocket computer charger
+computer charger
+END
+
+LOOK_AT
+This is a charger for a common pocket computer. It's pretty much what you'd 
+expect from such a thing. It's black, grey, or white, is largely inedible, 
+and every year or so the manufacturer changes the dimensions slightly so you 
+have to buy a new one.
+END

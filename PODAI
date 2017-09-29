@@ -1,0 +1,23 @@
+OBJECTNAME
+Pod Life Support AI
+END
+
+LOOTABLE
+true
+END
+
+NAMES
+ai
+pod ai
+life support
+pod life support
+pod life support ai
+life support ai
+END
+
+LOOK_AT
+This Pod Life Support AI unit is not very interesting to look at. It is a 
+small translucent box. The surface of the box is featureless, no ports, no 
+pins, no plugs. But this simple box is needed to run the advanced escape pod 
+life support system. You will definitely need this to get off this station.
+END

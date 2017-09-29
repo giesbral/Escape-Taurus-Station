@@ -1,0 +1,53 @@
+OBJECTNAME
+Security Camera Console
+END
+
+LOOTABLE
+false
+END
+
+NAMES
+security camera console
+security cameras
+security console
+camera console
+cameras
+console
+security computer
+camera computer
+computer
+END
+
+OBJECTS
+Security Footage
+END
+
+LOOK_AT
+It looks like this console connects to the ship’s security cameras, though its 
+eight little screens show nothing but static at the moment. It looks like 
+there's a data tape rhythmically clicking in and out of one of the broken
+terminals.
+END
+
+USE
+As you toggle through the console settings, it appears that a few of the ship’s 
+security feeds are still functional. You can barely make out several vaguely 
+human shapes in the grainy picture from the solarium. The cargo bay looks like 
+it’s crammed to capacity, but the cargo appears relatively untouched. You think 
+you see an occupied bed in the medical bay. You get an esoteric error message 
+when you try the comm center feed that you think is trying to tell you that the 
+comms camera is just gone. You catch a few frames of a single remaining escape 
+pod before the video cuts out. Flipping briskly through the remaining feeds 
+shows nothing but dead connections. You allow yourself a resigned sigh.
+END
+
+SEARCH
+You quickly grab the data tape before it's chunked back into the terminal.
+Comparing the label to the date on a nearby screen says that it contains 
+security footage from two weeks ago, but you're going to have to find a working 
+tape player if you want to see it. You put it in your pocket.
+END
+
+SEARCH***ACTIVATED
+There doesn't seem to be anything else here that's worth taking with you.
+END

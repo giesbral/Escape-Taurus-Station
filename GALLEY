@@ -1,0 +1,51 @@
+ROOMNAME
+Galley
+END
+
+VISITED
+false
+END
+
+LONGFORM
+You're in the ship's galley, which is dark and lit only by the fuzzy red glow 
+of a neon sign above the corridor to the hydroponics lab. It's main space is 
+filled with several long aluminum tables and space-age yellow chairs. You see 
+hundreds of small, meticulously-labeled metal cupboards cover the walls from 
+floor to ceiling. The room looks like it's been decorated for a birthday party.
+Plates, cups, and a large, white cake cover the middle table. You're the only 
+one here; it looks like whatever crisis the station suffered forced the party's
+hasty abandonment. As you look around, you notice that all the cupboards along 
+the aft bulkhead have blown open; their contents of prepackaged food and 
+cafeteria miscellany spill onto the floor. Huddled against the starboard wall, 
+a small kitchen appears to be one nasty knife away from being permanently 
+overtaken by a mountain of dirty dishes.
+END
+
+SHORTFORM
+This is the ship’s galley. It has the look of a cafeteria that was hastily 
+abandoned in the middle of an adult’s birthday party two weeks ago. Which is a 
+look too specific to be familiar to many people, but it’s oddly familiar to you.
+END
+
+OBJECTS
+Dirty Dishes
+Dining Table
+Birthday Cake
+Birthday Hat
+END
+
+FORWARD
+Security Office
+END
+
+AFT
+NONE
+END
+
+STARBOARD
+NONE
+END
+
+PORT
+Hydroponics
+END

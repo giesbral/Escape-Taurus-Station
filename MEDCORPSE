@@ -1,0 +1,30 @@
+OBJECTNAME
+Corpse
+END
+
+LOOTABLE
+false
+END
+
+NAMES
+corpse
+body
+END
+
+OBJECTS
+Keycard
+END
+
+LOOK_AT
+The corpse is cold to the touch. The face is frozen in agony. You cant stare 
+too long.
+END
+
+SEARCH
+You search through the pockets and you find a keycard to the Research Lab. 
+You put it in your pocket.
+END
+
+SEARCH***ACTIVATED
+You dont find anything else on the body.
+END

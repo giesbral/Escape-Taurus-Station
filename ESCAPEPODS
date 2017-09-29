@@ -1,0 +1,45 @@
+ROOMNAME
+Escape Pod Bay
+END
+
+VISITED
+false
+END
+
+LONGFORM
+The Escape Pod Bay is home to the station's Emergency Escape Pod evacuation 
+system. These pods can withstand rapid atmospheric reentry and can get you to 
+the surface safely. There should be enough pods for every member on-board, but
+it looks like the only remaining Escape Pod is severely damaged. You'll need 
+to find replacements for the broken components if you want to repair the pod
+and escape the station. You feel a sudden rush of urgency. Not only is this
+place falling apart, but the constant anxiety is starting to make you see
+things and jump at shadows. You would really like to get out of here with your
+sanity still intact.
+END
+
+SHORTFORM
+You are located in the Escape Pod Bay.
+END
+
+OBJECTS
+Broken Escape Pod
+Charred Photo
+Pod Repair Manual
+END
+
+FORWARD
+Cargo Bay
+END
+
+AFT
+NONE
+END
+
+STARBOARD
+NONE
+END
+
+PORT
+NONE
+END

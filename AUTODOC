@@ -1,0 +1,24 @@
+OBJECTNAME
+AutoDoc Bed
+END
+
+LOOTABLE
+false
+END
+
+NAMES
+autodoc
+bed
+autodoc bed
+END
+
+LOOK_AT
+The AutoDoc features include an Airtight Operating Shield, Comfortable Limb 
+Restraints, a Laser Scalpel, Computer Controlled Robotic Surgical Arms, Liquid 
+Spray Anesthetic and Vital Signs Sensors, all mounted on an Adjustable 
+Titanium Base. The AutoDoc allowed users to diagnose, treat and perform a wide 
+range of surgical procedures with ultra-fine laser incisions that were guided 
+by 3D anatomical scanning. Such procedures included diagnosis, treatment of 
+infection through concentrated antibiotic injections, basic wound repair, 
+appendectomy, laparoscopic ablation and Cesarean section.
+END

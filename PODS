@@ -1,0 +1,38 @@
+ROOMNAME
+Escape Pod Room
+END
+
+VISITED
+false
+END
+
+LONGFORM
+The escape pod room is the one room no crew member ever wanted to have to 
+enter. You notice that the remaining escape pods all appear to be busted. 
+Damn. But upon closer inspection...a few look to be in repairable condition. 
+If you can repair one, you can get back to the surface and survive!
+END
+
+SHORTFORM
+You are located in the Escape Pod Room.
+END
+
+OBJECTS
+Broken Escape Pod
+END
+
+FORWARD
+Cargo Bay
+END
+
+AFT
+NONE
+END
+
+STARBOARD
+NONE
+END
+
+PORT
+NONE
+END

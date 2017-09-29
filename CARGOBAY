@@ -1,0 +1,41 @@
+ROOMNAME
+Cargo Bay
+END
+
+VISITED
+false
+END
+
+LONGFORM
+The Cargo Bay of this station is massive. 1 cubic kilometer of 
+storage space can hold a lot of stuff. Originally designed for satellite 
+repair, this cargo bay has been converted to a storage space for all food, 
+spare parts, and anything else that could be used on this station. 
+END
+
+SHORTFORM
+You are located in the Cargo Bay.
+END
+
+OBJECTS
+Locker
+Cargo Shelves
+Pod Frame Panel
+Spacesuit
+END
+
+FORWARD
+Engineering Bay
+END
+
+AFT
+Escape Pod Room
+END
+
+STARBOARD
+NONE
+END
+
+PORT
+NONE
+END

@@ -1,0 +1,42 @@
+ROOMNAME
+Bridge
+END
+
+VISITED
+false
+END
+
+LONGFORM
+The bridge is unusually cold and quiet. The normally buzzing 
+control panels have all fallen silent. The blinking lights of the computer 
+terminals are the only thing indicating that something was awake and thinking. 
+The machines were constantly thinking. Constantly calculating and recalculating.
+Tracking oxygen, CO2, and every other trace gas. Tracking power and fuel. If the
+machines ever stop thinking, every living thing on this station will too.
+END
+
+SHORTFORM
+You are located on the Bridge.
+END
+
+OBJECTS
+Computer Terminal
+Oxygen Monitor
+Pod Life Support AI
+END
+
+FORWARD
+NONE
+END
+
+AFT
+Solarium
+END
+
+STARBOARD
+NONE
+END
+
+PORT
+NONE
+END

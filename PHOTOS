@@ -1,0 +1,25 @@
+OBJECTNAME
+Photos
+END
+
+LOOTABLE
+false
+END
+
+NAMES
+pictures
+photos
+photo
+END
+
+LOOK_AT
+Your crewmates have decorated one of the long, dull bulkheads here with an 
+elaborate mosaic of photographs. Family and friends grin and wave in infinite 
+repeat from a thousand tiny frames. You recognize some of your crewmates with 
+their wives and husbands, children and… what looks like 15 exactly identical 
+labrador retrievers in this one. Must be the ship’s geneticist. And here’s a 
+photo of you and the rest of the crew laughing and singing in the galley. 
+Judging from the smudged icing on the cake, it looks like it must’ve been from 
+Hal’s last birthday. You turn away from the pictures as your stomach rumbles 
+with thoughts of cake.
+END

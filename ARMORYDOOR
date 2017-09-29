@@ -1,0 +1,55 @@
+OBJECTNAME
+Armory Door
+END
+
+LOOTABLE
+false
+END
+
+NAMES
+armory door
+blast door
+door
+END
+
+USABLE WITH
+keyring
+END
+
+LOOK_AT***ACTIVATED
+You see the blast door to the ship’s armory. Historically an 
+obstacle to be taken seriously, now open for your convenience.
+END
+
+LOOK_AT
+You see the blast door to the ship’s armory. Apparently, it’s 
+made of 8 inches of tungsten steel. There’s a bit of graffiti on the abutting 
+bulkhead that says so. “8 INCHES OF TUNGSTEN STEEL”, it says, though you’re 
+fairly confident the author is grossly overestimating. Either way, it’s also 
+locked, so you aren’t getting in there without the keys.
+
+You notice that whatever key fits this keyhole must be rather fiddly.
+END
+
+USE***KEYRING
+You try several of the fiddly keys on the keyring. Finally, one especially
+fiddly key clicks in the lock and you hear the humming of hydraulics as the 
+seals crack on the armored doors. They open slightly with a sudden jolt 
+and then slide apart with a smooth motion. As cool air floods the room, your
+nose fills with the tangy odors of oil and gunmetal. However, you see nothing,
+the lights appear to be off in the armory. 
+END
+
+USE***ACTIVATED
+The door is already open and is equipped with fail-safes to prevent users from 
+crushing themselves or pulling pranks on their friends. The door is very 
+businesslike and appears to have little patience for tomfoolery. You leave it
+alone for now.
+END
+
+USE
+This heavy blast door is locked. It has a menacing air about it, as if the
+door knows it's business and doesn't really like you. It's the kind of air
+you'd expect from a door in charge of guarding an armory filled with 
+experimental space weapons. You'll need the key if you want to get inside.
+END

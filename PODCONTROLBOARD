@@ -1,0 +1,20 @@
+OBJECTNAME
+Pod Control Board
+END
+
+LOOTABLE
+true
+END
+
+NAMES
+pod control
+pod control board
+control board
+board
+END
+
+LOOK_AT
+The Pod Control Board looks like it is undamaged. All the capacitors, switches, 
+and resistors look like they are in their proper places. Thank God. You feel 
+relieved that you don't have to solder any electronic parts onto this thing.
+END

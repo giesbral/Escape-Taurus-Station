@@ -1,0 +1,21 @@
+NAMES
+blast door
+armory
+END
+
+IS_LOCKED
+true
+END
+
+DESCRIPTION
+Starboard side, you see the blast door to the ship’s armory. Historically an 
+obstacle to be taken seriously, now open for your convenience.
+END
+
+LOCKED
+Starboard side, you see the blast door to the ship’s armory. Apparently, it’s 
+made of 8 inches of tungsten steel. There’s a bit of graffiti on the abutting 
+bulkhead that says so. “8 INCHES OF TUNGSTEN STEEL”, it says, though you’re 
+fairly confident the author is grossly overestimating. Either way, it’s also 
+locked, so you aren’t getting in there without the keys.
+END

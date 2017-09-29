@@ -1,0 +1,52 @@
+ROOMNAME
+Security Office
+END
+
+VISITED
+false
+END
+
+LONGFORM
+You’re in the ship’s security office, currently cast in a dim 
+yellow by the emergency lamps. You recall that this room is usually trim and 
+tidy. Hal was nothing if not fastidious. Now, however, it appears that a gang 
+of brigands, or one rather large, energetic brigand, attempted to empty all 
+the drawers and cabinets in the room by firing into them with a cannon. 
+Papers and shattered equipment lie everywhere in chaotic drifts. 
+Some haphazardly aimed device has decorated the bulkheads and consoles with 
+black scoring and bright-edged craters. Ductwork spills from the ceiling. 
+The sharp odors of melted electronics catch in your nostrils. 
+And perhaps another smell, fainter.
+It’s musky, primal, and oddly familiar, but you can’t quite place it... 
+
+Despite the wanton destruction, the action doesn’t appear recent. 
+Everything iscovered with a fine layer of dust. 
+Motes catch in the green light of the few consoles that are still functional.
+END
+
+SHORTFORM
+This is the Security Office. It’s been blasted to bits by some violent 
+altercation. A few of the consoles are still functional.
+END
+
+OBJECTS
+Security Camera Console
+Flashlight
+Armory Door
+END
+
+FORWARD
+Captain's Quarters
+END
+
+STARBOARD
+Armory
+END
+
+AFT
+Galley
+END
+
+PORT
+NONE
+END
