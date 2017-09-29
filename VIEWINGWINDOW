@@ -1,0 +1,26 @@
+OBJECTNAME
+Viewing Window
+END
+
+LOOTABLE
+false
+END
+
+NAMES
+window
+viewing window
+END
+
+LOOK_AT
+This large picture window takes up the entire ceiling of the solarium.
+The station's orbit used to be such that the Earth was always visible from
+this window. The friendly blue ball is conspicuously absent now, 
+leaving a black canvas of coldly glowing stars.
+END
+
+USE
+You look up and out the large picture window set in the solarium's ceiling. 
+The station's orbit used to be such that the Earth was always 
+visible from this window. The friendly blue ball is conspicuously absent now,
+leaving a black canvas of coldly glowing stars. 
+END

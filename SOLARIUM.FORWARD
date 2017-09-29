@@ -1,0 +1,28 @@
+NAMES
+bridge
+blast door
+blast doors
+END
+
+IS_LOCKED
+true
+END
+
+DESCRIPTION
+Looking forward, you see that the blast doors to the bridge have released
+their security lockdown. Through the doorway you can see the lights from the
+rows and rows of navigational instruments and station computers. 
+END
+
+LOCKED
+Looking forward, you see that there's a heavy blast door blocking your way to
+the bridge. In the middle of the door, there's a small computer screen 
+displaying the message,
+
+ SECURITY LOCKDOWN: CATASTROPHIC FAILURE IN COMMUNICATIONS ARRAY
+ EMERGENCY PROCEDURE ‘TERESHKOVA’ CURRENTLY IN EFFECT.
+ OVERRIDE LEVEL: SALAMANDER; COMMANDER LEVEL OVERRIDE REQUIRED
+ PLEASE PRESENT CREDENTIALS
+
+You'd guess that means the door is very, very locked.
+END

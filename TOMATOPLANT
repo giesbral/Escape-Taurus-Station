@@ -1,0 +1,26 @@
+OBJECTNAME
+Tomato Plant
+END
+
+LOOTABLE
+false
+END
+
+NAMES
+tomato
+tomato plant
+plant
+END
+
+LOOK_AT
+The tomato plant has quite a few large red tomatoes hanging off the vines. 
+It is in a large planter full of potting soil. This is a curiousity on board 
+this station since all of the other plants are grown in an optimized liquid 
+nutrient mix. This plant and the soil are just a way to remember 'home.' 
+END
+
+TAKE
+Ummmm....No. You don't have room in your inventory for a tomato plant. 
+Even if you did, why would you take a freakin' tomato plant with you?! Collect 
+the necessary pod parts and get off this station! 
+END

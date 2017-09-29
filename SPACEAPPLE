@@ -1,0 +1,35 @@
+OBJECTNAME
+Space Apple
+END
+
+LOOTABLE
+true
+END
+
+NAMES
+space apple
+apple
+END
+
+LOOK_AT
+This beautifully genetically modified space apple looks delicious!
+END
+
+TAKE
+You pick up the space apple and place it into your inventory. You might CONSUME 
+it later.
+END
+
+CONSUME
+You take a large bite out of the flesh of the Space Apple. Juices run down 
+your face. Your eyes roll back in ecstasy as you enjoy the tasty, flavorful 
+fruit. You feel soooo much better. You momentarily forget that you will likely 
+die on this station hundreds of miles away from everyone you love.
+END
+
+USE
+You take a large bite out of the flesh of the Space Apple. Juices run down 
+your face. Your eyes roll back in ecstasy as you enjoy the tasty, flavorful 
+fruit. You feel soooo much better. You momentarily forget that you will likely 
+die on this station hundreds of miles away from everyone you love.
+END

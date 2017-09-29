@@ -1,0 +1,16 @@
+NAMES
+hydroponics
+long corridor
+dark corridor
+corridor
+END
+
+IS_LOCKED
+false
+END
+
+DESCRIPTION
+Looking aft, you see a long, dark corridor. About halfway down its length, 
+there's a backlit sign labeled "HYDROPONICS". One of the bulbs is going out, 
+and half the sign blinks on and off at irregular intervals.
+END

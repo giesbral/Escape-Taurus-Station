@@ -1,0 +1,57 @@
+OBJECTNAME
+Spacesuit
+END
+
+LOOTABLE
+true
+END
+
+NAMES
+suit
+spacesuit
+space suit
+END
+
+LOOK_AT
+It's a standard spacesuit, issued to all Taurus Station personnel.
+This one is orange with white straps and helmet, with a thin, 
+square backpack containing the life support systems and propulsion jets for 
+navigating in zero-g vacuum.
+It's built to fit over your jumpsuit, and is surprisingly light.
+END
+
+TAKE
+You lift the spacesuit from the locker and sling it over your shoulder, like
+you're kidnapping a weird, orange, skin person. It's not heavy, but the helmet
+bangs against your legs while you walk. You think that it would probably be 
+better to just wear the thing.
+END
+
+USE
+You lift the spacesuit from the locker and begin undoing the multitude of
+clips and zippers. Several minutes later you're wearing a spacesuit, like a
+real astronaut. Though this one appears to have belonged to someone else, 
+it's a little too tight in the legs and the gloves are a bit too big. 
+Otherwise, it's surprisingly comfortable. Something about its snug embrace 
+makes you feel safe.
+END
+
+USE***ACTIVATED
+The spacesuit is so comfortable, and the station in such a questionable
+state of repair, that you never want to take it off. You flex your fingers in
+the gloves, and smile to yourself at the rubbery squeaks this produces.
+END
+
+WEAR
+You lift the spacesuit from the locker and begin undoing the multitude of
+clips and zippers. Several minutes later you're wearing a spacesuit, like a
+real astronaut. Though this one appears to have belonged to someone else, 
+it's a little too tight in the legs and the gloves are a bit too big. 
+Otherwise, it's surprisingly comfortable. Something about its snug embrace 
+makes you feel safe.
+END
+
+WEAR***ACTIVATED
+You're already wearing the spacesuit. Taking the spacesuit off and putting it
+back on again would be silly, and you keep getting caught in the zippers.
+END

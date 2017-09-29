@@ -1,0 +1,20 @@
+OBJECTNAME
+Big Hole
+END
+
+LOOTABLE
+false
+END
+
+NAMES
+big hole
+hole
+END
+
+LOOK_AT
+You can see bits of splintered bulkhead fluttering in the moonlight as
+you scan the gaping hole in the deck. The bright sliver of the moon overwhelms
+the stars and space appears flat and black. You pull yourself away from 
+the edge as you're gripped by the morbid temptation to tip yourself 
+into the void.
+END

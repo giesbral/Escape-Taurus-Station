@@ -1,0 +1,19 @@
+OBJECTNAME
+Large Video Monitor
+END
+
+LOOTABLE
+false
+END
+
+NAMES
+video
+video monitor
+large video monitor
+monitor
+END
+
+LOOK_AT
+On the video monitor, you see a replay of the classic sci-fi movie, Aliens, 
+which came out more than 80 years ago.
+END

@@ -1,0 +1,32 @@
+OBJECTNAME
+Station Terminal
+END
+
+LOOTABLE
+false
+END
+
+NAMES
+station terminal
+wall terminal
+terminal
+computer
+END
+
+LOOK_AT
+You examine the gently beeping wall terminal. It’s identical to the many others 
+installed throughout the ship, though this one has a flash of spidery cracks 
+running across the screen.
+END
+
+USE
+You approach a gently beeping wall terminal. It’s identical to the many others 
+installed throughout the ship, though this one has a flash of long spidery 
+cracks running across the screen. Used for ship-wide communications, crew logs, 
+and playing the occasional game of off-duty mahjong. You try a series of 
+commands to see if you can contact anyone else on the ship, but the screen 
+continues to read,
+“CATASTROPHIC FAILURE IN COMMUNICATIONS ARRAY. 
+EMERGENCY PROCEDURE ‘TERESHKOVA’ CURRENTLY IN EFFECT. 
+ALL OFFICERS REPORT TO DUTY STATIONS IMMEDIATELY.”
+END

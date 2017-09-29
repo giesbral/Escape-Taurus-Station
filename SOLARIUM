@@ -1,0 +1,51 @@
+ROOMNAME
+Solarium
+END
+
+VISITED
+false
+END
+
+LONGFORM
+You're now in the Solarium. A large, round cupola window fills the ceiling. 
+You used to love this room, and would spend many a free evening lying on the 
+floor with your friends, looking out across the stars and the blue ball 
+of the Earth. 
+Now, this is just a haunted rotunda where you find several bodies of your 
+former crewmates slumped against the walls in violent configurations. 
+The air purifiers are having trouble overcoming the smell; 
+you fight the urge to be sick as the scent of old gore fills your nostrils. 
+END
+
+SHORTFORM
+You are located in the Solarium. The mangled bodies of several of your 
+crewmates lie slumped against the walls.
+END
+
+DARK
+It's very dark here and it smells terrible. You can't see anything other than
+a few stars winking through the giant cupola window overhead.
+END
+
+OBJECTS
+Chief Engineer's Corpse
+Viewing Window
+Airlock Controls
+Blast Door
+END
+
+FORWARD
+Bridge
+END
+
+AFT
+Hydroponics
+END
+
+STARBOARD
+Captain's Quarters
+END
+
+PORT
+Communications Center
+END

@@ -1,0 +1,62 @@
+OBJECTNAME
+Storage Shelves
+END
+
+LOOTABLE
+false
+END
+
+NAMES
+shelves
+storage shelves
+END
+
+USABLE WITH
+cargo crane
+END
+
+OBJECTS
+Pod Fusion Generator
+END
+
+LOOK_AT***ACTIVATED
+The storage shelves are now neatly arranged, their contents organized into
+reverse-alphabetical order by an industrious robotic crane. There doesn't
+seem to be anything you can use among the tools and mechanical detritus.
+END
+
+LOOK_AT***READY
+The storage shelves are now neatly arranged, their contents organized into
+reverse-alphabetical order by an industrious robotic crane. Several components
+that were out of reach are now within your grasp, if only you had the will to
+reach out and take them.
+END
+
+LOOK_AT
+These storage shelves are crowded with tools, spare parts, old physics 
+experiments, broken lab equipment, computer components, and an inexplicable 
+number of damaged microwaves. You think you see a fusion generator for
+an escape pod hiding on one of the top shelves, but you have no way to reach
+it from here. 
+END
+
+SEARCH***READY
+Thanks to your new friend, the cargo crane, you reach out and pluck a fusion
+generator for the escape pod from the bottom shelf and add it to your growing
+collection of pilfered knickknacks.
+END
+
+SEARCH***ACTIVATED
+The shelves are crowded, but with things you can't use right now. You leave
+them alone.
+END
+
+SEARCH
+You look for a way up to the pod part you need, but the shelves are spaced
+too far apart for a normal human to climb. You could head to the research lab 
+and make some quick adjustments to your genetic code, lengthening your arms
+and spine until you could climb the shelves at ease, but with the unfortunate
+side effect of causing men to scream in terror and women to faint at the mere
+sight of your grotesque, misshapen form. Alternatively, you could maybe find a
+ladder or something.
+END

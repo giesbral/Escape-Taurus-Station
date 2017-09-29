@@ -1,0 +1,26 @@
+NAMES
+airlock
+comms
+comm center
+communications center
+END
+
+IS_LOCKED
+true
+END
+
+DESCRIPTION
+Port side, you see an emergency airlock closing off the corridor to the 
+communication center. Now that you're wearing a space suit, you could use
+the controls to cycle the airlock and get into the comm center without your 
+blood boiling out your eyeballs; which seems like the best way to do it if 
+you're going to do it at all.
+END
+
+LOCKED
+Port side, you see the corridor to the communications center has been closed
+off by emergency airlocks. The airlocks only kick on when there's a leak in 
+the hull or the atmosphere goes bad, so you'll want a spacesuit before 
+attempting to open them; cold vacuum and toxic gas both do terrible things
+to your hair.
+END

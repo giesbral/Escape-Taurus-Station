@@ -1,0 +1,15 @@
+NAMES
+captain's quarters
+hallway
+END
+
+IS_LOCKED
+false
+END
+
+DESCRIPTION
+Starboard side, you see a pitch black hallway that should lead to the 
+Captain's quarters. The hallway makes a right turn in the middle, so you can't
+see into the Captain's quarters from here, but given how dark it is, 
+the lights must be off in there too.
+END

@@ -1,0 +1,17 @@
+OBJECTNAME
+Workbench
+END
+
+LOOTABLE
+false
+END
+
+NAMES
+workbench
+bench
+END
+
+LOOK_AT
+The workbench is covered in nutrient tables and growth charts. You also see a 
+roll of plastic tubing in the corner.
+END
